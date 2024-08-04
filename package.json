@@ -1,0 +1,22 @@
+{
+  "name": "@emmanuella194/is-wds",
+  "version": "1.0.0",
+  "description": "is wds a string?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmanuella194/Npm-package.git"
+  },
+  "keywords": [
+    "wds"
+  ],
+  "author": "Emmanuella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmanuella194/Npm-package/issues"
+  },
+  "homepage": "https://github.com/emmanuella194/Npm-package#readme"
+}
